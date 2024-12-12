@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">I am a student at the University of Birmingham doing a MSc in Computer Science. I am very interested in machine learning and its business application.</h3>
+<h3 align="center">I am currently pursuing an MSc in Computer Science at the University of Birmingham, with a strong interest in machine learning and its applications in business.</h3>
 
 - 🌱 I’m currently learning **python**
 
